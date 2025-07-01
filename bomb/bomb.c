@@ -109,7 +109,7 @@ int main(int argc, char *argv[])
     phase_defused();
 
     /* Wow, they got it!  But isn't something... missing?  Perhaps
-     * something they overlooked?  Mua ha ha ha ha! */
+     * something they overlooked?  Mua ha ha ha ha! */  
     
     return 0;
 }
